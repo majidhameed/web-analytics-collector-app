@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/majidhameed/web-analytics-collector-app?style=plastic)
+
 # web-analytics-collector-app
 Tracks HTTP requests and save the responses in the mongodb. It has two interfaces:
 1. TrackerApp: For tracking the requests.
